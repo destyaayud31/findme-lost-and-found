@@ -36,7 +36,17 @@ As a Backend Developer, I was responsible for:
 
 ## Application Preview
 
-*(Screenshots will be added here.)*
+### Home Page
+
+![Home](home.png)
+
+### Report Lost Item
+
+![Report Lost Item](report item.png)
+
+### Claim Item
+
+![Claim Item](claim item.png)
 
 ## Installation
 
